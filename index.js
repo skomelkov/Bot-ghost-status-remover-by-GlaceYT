@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["https://goo.su/PoeKRKd","Эксклюзивно для SK_Server"];
 
 
 let currentIndex = 0;
