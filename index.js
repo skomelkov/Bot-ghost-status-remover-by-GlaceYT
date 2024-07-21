@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Эксклюзивно для SK_Server","Помощник сервера","https://www.youtube.com/@SeregaKom"];
 
 
 let currentIndex = 0;
